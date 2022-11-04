@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Pats-Chen
+- 👋 Hi, I’m @Pats-Chen.
 - 👀 I’m interested in mobile application development.
-- 🌱 I’m currently learning computer networks
+- 🌱 I’m currently learning computer networks.
 - 💞️ I’m looking to collaborate on Android applications.
 - 📫 How to reach me is TBA.
 
