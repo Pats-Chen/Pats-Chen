@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Pats-Chen.
 - 👀 I’m interested in mobile application development.
 - 🌱 I’m currently learning computer networks.
-- 💞️ I’m looking to collaborate on Android applications.
-- 📫 How to reach me is not revealed here.
+- 💞️ I’m looking forward to collaboration on Android applications.
+- 📫 How to reach me? That is to be announced!
 
 <!---
 Pats-Chen/Pats-Chen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
