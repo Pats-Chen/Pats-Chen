@@ -14,7 +14,7 @@
 ## Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Pats-Chen&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pats-Chen&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pats-Chen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---Personal Notes
 --->
