@@ -2,11 +2,11 @@
 
 ## Tech Stacks
 
-[![Python](https://img.shields.io/badge/-programming-black?style=flat-square&logo=python)]()
+[![Python](https://img.shields.io/badge/-Python-A9A8A8?style=flat-square&logo=Python)]()
 [![Android](https://img.shields.io/badge/-programming-black?style=flat-square&logo=android)]()
 [![Firebase](https://img.shields.io/badge/-programming-black?style=flat-square&logo=firebase)]()
-[![JavaScript](https://img.shields.io/badge/-programming-black?style=flat-square&logo=javascript)]()
+[![JavaScript](https://img.shields.io/badge/-JavaScript-565454?style=flat-square&logo=JavaScript)]()
 [![Bootstrap](https://img.shields.io/badge/-programming-black?style=flat-square&logo=bootstrap)]()
-[![React](https://img.shields.io/badge/-programming-black?style=flat-square&logo=react)]()
+[![React](https://img.shields.io/badge/-React-807E7E?style=flat-square&logo=react)]()
 
 <!---Personal Notes--->
