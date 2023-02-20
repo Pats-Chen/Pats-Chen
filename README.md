@@ -15,7 +15,7 @@
 
 ## Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Pats-Chen&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Pats-Chen&date_format=%5BY.%5Dn.j&theme=dark)](https://git.io/streak-stats)
 
 
 <!---Personal Notes
