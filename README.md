@@ -1,4 +1,4 @@
-## Github Overview
+## Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Pats-Chen&theme=gruvbox&rank=SECRET,SSS,SS,S,AAA,AA,A&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -11,9 +11,10 @@
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=bootstrap)]()
 [![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase)]()
 
-## Stats
+## Streaks
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Pats-Chen&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Pats-Chen&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
-<!---Personal Notes--->
+<!---Personal Notes
 Ruler: ---
+--->
