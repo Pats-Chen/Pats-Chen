@@ -5,7 +5,7 @@
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)]()
 [![Android](https://img.shields.io/badge/-Android-black?style=flat&logo=android)]()
 [![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase)]()
-[![JavaScript](https://img.shields.io/badge/-JavaScript-565454?style=flat&logo=JavaScript)]()
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=JavaScript)]()
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=bootstrap)]()
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)]()
 
