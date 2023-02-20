@@ -6,8 +6,7 @@
 
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)]()
 [![Android](https://img.shields.io/badge/-Android-black?style=flat&logo=android)]()
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=JavaScript)]()  
-
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=JavaScript)]()
 [![React](https://img.shields.io/badge/-ReactJS-black?style=flat&logo=react)]()
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=bootstrap)]()
 [![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase)]()
