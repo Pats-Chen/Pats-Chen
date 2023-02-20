@@ -11,4 +11,9 @@
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=bootstrap)]()
 [![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase)]()
 
+## Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Pats-Chen&theme=dark&background=000000)](https://git.io/streak-stats)
+
 <!---Personal Notes--->
+Ruler: ---
