@@ -10,7 +10,7 @@
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=bootstrap)]()
 [![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase)]()  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pats-Chen&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?hide_title=true&username=Pats-Chen&hide_border=true&theme=onedark)]()
 
 ## Trophy
 
