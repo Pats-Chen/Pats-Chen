@@ -5,11 +5,9 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=JavaScript)]()
 [![React](https://img.shields.io/badge/-ReactJS-black?style=flat&logo=react)]()
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=bootstrap)]()
-[![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase)]()
+[![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase)]()  
 
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pats-Chen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pats-Chen&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Trophy
 
