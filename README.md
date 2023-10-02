@@ -1,16 +1,16 @@
 ## Tech Stacks
 
-[![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=Python)]()
-[![R](https://img.shields.io/badge/-R-blue?style=flat&logo=R)]()
-[![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=flat&logo=javascript)]()
-[![HTML](https://img.shields.io/badge/-HTML-blue?style=flat&logo=html5)]()
-[![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3)]()  
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=Python)]()
+[![R](https://img.shields.io/badge/-R-black?style=flat&logo=R)]()
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)]()
+[![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=html5)]()
+[![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=css3)]()  
 
-[![Android](https://img.shields.io/badge/-Android-blue?style=flat&logo=android)]()
-[![ReactJS](https://img.shields.io/badge/-ReactJS-blue?style=flat&logo=react)]()
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-blue?style=flat&logo=bootstrap)]()
-[![MongoDB](https://img.shields.io/badge/-mongodb-blue?style=flat&logo=mongodb)]() 
-[![Firebase](https://img.shields.io/badge/-Firebase-blue?style=flat&logo=firebase)]() 
+[![Android](https://img.shields.io/badge/-Android-black?style=flat&logo=android)]()
+[![ReactJS](https://img.shields.io/badge/-ReactJS-black?style=flat&logo=react)]()
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=bootstrap)]()
+[![MongoDB](https://img.shields.io/badge/-mongodb-black?style=flat&logo=mongodb)]() 
+[![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase)]() 
 
 ## Trophies
 
