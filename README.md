@@ -9,7 +9,6 @@
 
 [![Android](https://img.shields.io/badge/-Android-black?style=flat&logo=android)]()
 [![ReactJS](https://img.shields.io/badge/-ReactJS-black?style=flat&logo=react)]()
-[![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=flat&logo=node)]()
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=bootstrap)]()
 [![MongoDB](https://img.shields.io/badge/-mongodb-black?style=flat&logo=mongodb)]() 
 [![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase)]() 
