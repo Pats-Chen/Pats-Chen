@@ -4,10 +4,12 @@
 [![R](https://img.shields.io/badge/-R-black?style=flat&logo=R)]()
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)]()
 [![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=html5)]()
-[![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=css3)]()  
+[![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=css3)]()
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)]() 
 
 [![Android](https://img.shields.io/badge/-Android-black?style=flat&logo=android)]()
 [![ReactJS](https://img.shields.io/badge/-ReactJS-black?style=flat&logo=react)]()
+[![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=flat&logo=node)]()
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=bootstrap)]()
 [![MongoDB](https://img.shields.io/badge/-mongodb-black?style=flat&logo=mongodb)]() 
 [![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase)]() 
