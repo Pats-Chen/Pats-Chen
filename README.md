@@ -13,6 +13,11 @@
 [![MongoDB](https://img.shields.io/badge/-mongodb-black?style=flat&logo=mongodb)]() 
 [![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase)]() 
 
+## Certifications
+
+![GitHub Foundations](https://github.com/Pats-Chen/Pats-Chen/blob/main/github-foundations.png?raw=true)
+
+
 ## Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Pats-Chen&theme=gruvbox&rank=SECRET,SSS,SS,S,AAA,AA,A&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
