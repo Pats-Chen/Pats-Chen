@@ -18,15 +18,3 @@
 ## Certifications
 
 <img src="https://github.com/Pats-Chen/Pats-Chen/blob/main/github-foundations.png" width="120" height="120"/>
-
-## Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Pats-Chen&theme=gruvbox&rank=SECRET,SSS,SS,S,AAA,AA,A&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-<!---Personal Notes--->
-<!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?hide_title=true&username=Pats-Chen&hide_border=true&theme=onedark)]()--->
-<!---## Stats--->
-<!---[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Pats-Chen&date_format=%5BY.%5Dn.j&theme=dark)](https://git.io/streak-stats)--->
-
-
-
